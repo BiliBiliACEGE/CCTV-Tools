@@ -129,8 +129,6 @@ VideoDownloader/
 │   ├── data/columns.json          内置栏目清单快照（346 个栏目）
 │   ├── capabilities/default.json  权限声明
 │   └── tauri.conf.json            窗口 / 打包配置
-├── docs/
-│   └── CCTV片库接口分析.md         逆向分析全过程与接口清单
 ├── downloads/                     默认输出目录
 └── README.md
 ```
