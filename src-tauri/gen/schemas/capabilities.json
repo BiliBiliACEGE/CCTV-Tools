@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"央视工具箱主窗口能力","local":true,"windows":["main"],"permissions":["core:default","core:webview:deny-internal-toggle-devtools","opener:default","dialog:default"]}}
